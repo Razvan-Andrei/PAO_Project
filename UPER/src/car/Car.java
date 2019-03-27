@@ -4,7 +4,7 @@ import client.Client;
 import main.Company;
 import main.Driver;
 
-public class Car {
+public abstract class Car {
 
     private String number;
     Driver driver;
